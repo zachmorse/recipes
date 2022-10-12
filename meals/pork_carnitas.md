@@ -1,7 +1,5 @@
 # Pork Carnitas
 
----
-
 ### Ingredients
 - Pork shoulder, 4-7lbs
 - 20oz Dr. Pepper (full sugar)

@@ -1,5 +1,5 @@
-# Blistered Shishito  Peppers
----
+# Blistered Shishito Peppers
+
 ### Ingredients
 - Shishito peppers
 - Sesame and/or olive oil
